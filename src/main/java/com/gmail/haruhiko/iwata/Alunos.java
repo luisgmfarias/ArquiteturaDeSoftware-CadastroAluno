@@ -32,4 +32,8 @@ public class Alunos{
    public void setCurso(String cur){
      this.curso = cur;
    }
+
+    boolean isEmpty() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
